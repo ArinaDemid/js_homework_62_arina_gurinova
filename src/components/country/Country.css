@@ -1,0 +1,24 @@
+.Country {
+  height: 700px;
+  width: 500px;
+  float: right;
+  text-align: left;
+  padding-top: 40px;
+}
+
+.Country-name {
+  text-transform: uppercase;
+}
+
+.Country-flag {
+  float: right;
+  height: 100px;
+  width: 150px;
+  margin: 5px 20px 5px 10px;
+}
+
+.Country-borders-title {
+  list-style-type: none;
+  margin-left: -38px;
+  font-weight: bold;
+}

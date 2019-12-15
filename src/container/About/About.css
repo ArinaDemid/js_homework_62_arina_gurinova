@@ -1,0 +1,22 @@
+.About p {
+  text-align: left;
+  margin: 0 10px;
+}
+
+.AboutTitle {
+  text-align: center;
+}
+
+.AboutImage {
+  height: 300px;
+  width: 100%;
+  margin: 20px -10px;
+}
+
+.AboutPhotoMe {
+  border-radius: 50%;
+  float: left;
+  height: 150px;
+  width: 150px;
+  margin: 10px;
+}
